@@ -9,7 +9,8 @@
 
 _「持續學習，讓今天的自己比昨天更好。」_
 
-[我最喜歡的網站 - 高科大]([https://www.nkust.edu.tw/])
+[我最喜歡的網站 - 派網](https://www.pionex.com/zh-TW/signUp?r=AtQxewvS)
+### 都給我快去註冊
 
 ![風景圖](https://picsum.photos/600/300)
 
