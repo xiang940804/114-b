@@ -3,30 +3,6 @@
 ## 關於我
 - **Python 程式開發**  
 - 網頁前端設計 (HTML / CSS / JS)  
-- 資料庫管理 (MySQL / Firebase)
-- 炒幣
-
-_「持續學習，讓今天的自己比昨天更好。」_
-
-[我最喜歡的網站 - OpenAI](https://openai.com)
-
-![風景圖](https://picsum.photos/600/300)
-
-> 「成功不是終點，失敗也不是末日，最重要的是繼續前進的勇氣。」 — 丘吉爾
-
-## 教育與經歷
-
-| 時間 | 經歷 |
-|------|------|
-| 2020-2023 | 高雄市立三民家商 資料處理科 |
-| 2023-2027 | 國立高雄科技大學 資訊管理系 |
-
-## 程式碼示範
-# 林竣翔
-
-## 關於我
-- **Python 程式開發**  
-- 網頁前端設計 (HTML / CSS / JS)  
 - 資料庫管理 (MySQL / Firebase)  
 
 _「持續學習，讓今天的自己比昨天更好。」_
@@ -66,7 +42,7 @@ class Database {
     }
 }
 
-// 使用範例
+
 $db = new Database("localhost", "testdb", "root", "password");
 $users = $db->getUsers();
 foreach ($users as $user) {
