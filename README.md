@@ -11,8 +11,11 @@ _「持續學習，讓今天的自己比昨天更好。」_
 
 [我最喜歡的網站 - 派網](https://www.pionex.com/zh-TW/signUp?r=AtQxewvS)
 ### 都給我快去註冊
+#### 好友註冊最高享20%手續費減免
 
-![風景圖](https://picsum.photos/600/300)
+
+_「DOGE目前價格」_
+<img width="1508" height="653" alt="image" src="https://github.com/user-attachments/assets/1632cd74-1288-4557-8097-0c2fc6a5490f" />
 
 > 「成功不是終點，失敗也不是末日，最重要的是繼續前進的勇氣。」 — 丘吉爾
 
