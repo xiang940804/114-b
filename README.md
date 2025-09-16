@@ -5,10 +5,11 @@
 - 網頁前端設計 (HTML / CSS / JS)  
 - 資料庫管理 (MySQL / Firebase)
 - 炒幣
+- DOGE coin必須要去1u
 
 _「持續學習，讓今天的自己比昨天更好。」_
 
-[我最喜歡的網站 - 高科大]([https://openai.com](https://www.nkust.edu.tw/))
+[我最喜歡的網站 - 高科大]([https://www.nkust.edu.tw/])
 
 ![風景圖](https://picsum.photos/600/300)
 
